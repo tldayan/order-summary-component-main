@@ -8,7 +8,6 @@ This is a README file for the "Order Summary Component" project from Frontend Me
 
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshot](#screenshot)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
@@ -29,10 +28,6 @@ The completed project includes the following features:
 - Displaying the product image, name, and pricing details.
 - Providing a call-to-action button for confirming the order.
 - Ensuring the component is fully responsive and adapts to different screen sizes.
-
-## Screenshot
-
-![Order Summary Component - Screenshot](https://www.frontendmentor.io/static/images/projects/order-summary-component-2944c743778504a31e30807e00c3f8f9.png)
 
 
 ## Installation
