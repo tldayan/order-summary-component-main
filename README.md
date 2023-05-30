@@ -1,6 +1,6 @@
 # Order Summary Component - README
 
-[Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 This is a README file for the "Order Summary Component" project from Frontend Mentor. The project involves creating a responsive order summary component using HTML, CSS, and JavaScript.
 
