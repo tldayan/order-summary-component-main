@@ -1,6 +1,6 @@
 # Order Summary Component - README
 
-![Order Summary Component](https://www.frontendmentor.io/static/images/projects/order-summary-component-2944c743778504a31e30807e00c3f8f9.png)
+[Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
 This is a README file for the "Order Summary Component" project from Frontend Mentor. The project involves creating a responsive order summary component using HTML, CSS, and JavaScript.
 
@@ -9,7 +9,6 @@ This is a README file for the "Order Summary Component" project from Frontend Me
 - [Overview](#overview)
 - [Features](#features)
 - [Screenshot](#screenshot)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
@@ -35,9 +34,6 @@ The completed project includes the following features:
 
 ![Order Summary Component - Screenshot](https://www.frontendmentor.io/static/images/projects/order-summary-component-2944c743778504a31e30807e00c3f8f9.png)
 
-## Demo
-
-A live demo of the Order Summary Component can be accessed [here](https://your-demo-link.com).
 
 ## Installation
 
@@ -60,7 +56,6 @@ The project uses the following technologies:
 
 - HTML
 - CSS
-- JavaScript
 
 ## Contributing
 
@@ -74,4 +69,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 This project was completed as part of the Frontend Mentor challenges. Special thanks to the team at Frontend Mentor for providing the design and specifications for this project.
 
-Feel free to customize and enhance the project as per your requirements. Happy coding!
+Feel free to customize and enhance the project as per your requirements.
